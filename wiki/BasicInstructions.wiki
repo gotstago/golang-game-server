@@ -1,0 +1,14 @@
+#summary Basic instructions for running and using the server.
+
+= Starting the server = 
+
+Build the server by sourcint the "build" script, or download the "server" binary. The binary is statically linked, and should work on any x86 compatible Linux machine.
+
+Run "server --help" for options. By default, the server runs on port 1718.
+
+= Calling the server =
+
+Add your content heres.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
