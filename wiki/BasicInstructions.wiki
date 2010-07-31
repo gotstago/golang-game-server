@@ -8,6 +8,10 @@ Run "server --help" for options. By default, the server runs on port 1718.
 
 = Calling the server =
 
+The server supplies the following URLs:
+
+`/connect/?user=[name]`
+
 Add your content heres.  Format your content with:
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
