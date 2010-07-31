@@ -1,0 +1,1 @@
+(cd game; 8g -I. *.go); 8g -I. *.go; 8l -L. -o server server.8
